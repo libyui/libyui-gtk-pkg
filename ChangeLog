@@ -1,4 +1,11 @@
 -------------------------------------------------------------------
+Fri Dec 13 15:49:38 UTC 2013 - lslezak@suse.com
+
+- use "gtk-pkg" textdomain instead of "gtk" to avoid possible
+  conflict with libyui-gtk (bnc#801311#c45)
+- Version 2.42.10
+
+-------------------------------------------------------------------
 Thu Jul  4 13:54:03 CEST 2013 - tgoettlicher@suse.de
 
 - Fix undefined zypp version (bnc#811209)
